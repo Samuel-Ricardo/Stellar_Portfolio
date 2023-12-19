@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "lint:staged": "eslint **/*.{js,jsx,ts,tsx} --fix --cache",
-    "format:verify": "prettier --check --ignore-path .gitignore ./src/**/*.{js,jsx,ts,tsx}"
+    "format:verify": "prettier --check --ignore-path .gitignore ./src/**/*.{js,jsx,ts,tsx}",
+    "format:fix": "prettier --ignore-path .gitignore --check --write ./src/**/*.{js,jsx,ts,tsx}"
   },
   "dependencies": {
     "next": "14.0.4",

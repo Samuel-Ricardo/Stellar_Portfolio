@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:clean": "npm run format:fix && npm run lint && npm run build",
     "start": "next start",
     "lint": "next lint",
     "lint:staged": "eslint **/*.{js,jsx,ts,tsx} --fix --cache",

@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  stellar:
+    build: .
+    entrypoint: ["npm", "run", "dev"]
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.local
+    volumes:
+      - .:/home/node/app
+    external_links:
+      - "host.docker.internal"

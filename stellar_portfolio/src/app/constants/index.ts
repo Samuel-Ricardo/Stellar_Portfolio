@@ -235,3 +235,12 @@ export const Full_stack = [
     height: 50,
   },
 ];
+
+export const Other_skill = [
+  {
+    skill_name: 'Go',
+    Image: '/go.png',
+    width: 60,
+    height: 60,
+  },
+];

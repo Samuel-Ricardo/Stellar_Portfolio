@@ -207,3 +207,31 @@ export const Backend_skill = [
     height: 80,
   },
 ];
+
+export const Full_stack = [
+  {
+    skill_name: 'React Native',
+    Image: '/ReactNative .png',
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: 'Tauri',
+    Image: '/tauri.svg',
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: 'Docker',
+    Image: '/docker.webp',
+    width: 70,
+    height: 70,
+  },
+
+  {
+    skill_name: 'Figma',
+    Image: '/figma.png',
+    width: 50,
+    height: 50,
+  },
+];

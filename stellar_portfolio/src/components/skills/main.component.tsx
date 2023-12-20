@@ -1,4 +1,4 @@
-import { Frontend_skill, skill_data } from '@/constants';
+import { Backend_skill, Frontend_skill, skill_data } from '@/constants';
 import { SkillText } from './text.component';
 import { SkillData } from './data.component';
 
@@ -25,6 +25,18 @@ export const Skills = () => {
 
       <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
         {Frontend_skill.map((image, index) => (
+          <SkillData
+            key={image.skill_name}
+            src={image.Image}
+            width={image.width}
+            height={image.height}
+            index={index}
+          />
+        ))}
+      </div>
+
+      <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
+        {Backend_skill.map((image, index) => (
           <SkillData
             key={image.skill_name}
             src={image.Image}

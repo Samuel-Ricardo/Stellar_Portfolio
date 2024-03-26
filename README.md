@@ -48,7 +48,7 @@
 <h2>  | :artificial_satellite: About:  </h2>
 
 <p align="justify">
-In this project, the target is to build a website that beats all the main factors and metrics that measure how fast and well-structured an application can be, along with good ranking and SEO strategies. These metrics are known as Web Vitals. improve all tech skills related to website animations and i use real time 3d Rendering to generate the effect of navigating in space.
+In this project, the target is to build a website that beats all the main factors and metrics that measure how fast and well-structured an application can be, along with amazing UI and improve all tech skills related to website animations, i use real time 3d Rendering to generate the effect of navigating in space.
 </p>
 
 <p align="justify">

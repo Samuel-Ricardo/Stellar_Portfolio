@@ -134,3 +134,52 @@ This Portfolio show the highlights of a developer, social media, and some projec
 <br>
 
 <br>
+
+### Open your Git Terminal and clone this repository
+
+```git
+  $ git clone "git@github.com:Samuel-Ricardo/Stellar_Portfolio.git"
+```
+
+### Make Pull
+
+```git
+  $ git pull "git@github.com:Samuel-Ricardo/Stellar_Portfolio.git"
+```
+
+<br>
+
+This application use `Docker` so you dont need to install and cofigurate anything other than docker on your machine.
+
+> <a target="_blank" href="https://www.docker.com/"> <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> </a>
+
+<br>
+
+Navigate to project folder `$ cd ./animated_portfolio/` and run it using `docker-compose`
+
+```bash
+
+  # After setup docker environment just run this commmand on root project folder:
+
+  $ docker-compose up --build   # For First Time run this command
+
+  $ docker-compose up           # to run project
+
+
+```
+
+```bash
+
+  #Apps Running on:
+
+  $ APP: http://localhost:3000
+
+  See more: ./stellar_portfolio/docker-compose.yaml
+
+```
+
+<br>
+
+#
+
+<br>

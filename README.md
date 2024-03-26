@@ -88,4 +88,49 @@ For this, i build a Dev Portfolio website, that you can use as a template, becau
 
 #
 
+<h2 id="app">
+  💻 | Application:
+</h2>
+
+<p align="justify">
+This Portfolio show the highlights of a developer, social media, and some projects and pretty animations.  
+</p>
+
+<br>
+
+<p align="justify">
+*Remember this software runs on free machines, that is, with the minimum of resources to fit into free plans, so with scarce resources in the production environment these were the results I obtained
+</p>
+
+<br/>
+
+### PageSpeed Insights - [ PC ]
+
+ <img width="auto" src="https://media.discordapp.net/attachments/852529276083503134/1187127946226454588/image.png?ex=660dba8e&is=65fb458e&hm=b2416c543ec1105a0f6b88a68695c330687049aa4113efbaae16f0078af70c24&=&format=webp&quality=lossless&width=704&height=396"/>
+
+<br>
+
+### PageSpeed Insights - [ Mobile ]
+
+ <img width="auto" src="https://media.discordapp.net/attachments/852529276083503134/1187128010118287491/image.png?ex=660dba9d&is=65fb459d&hm=53ad2a57f4efc2a0f60d786a5ca4fb38f1250f30415bc53eb3257a34e5081a4b&=&format=webp&quality=lossless&width=704&height=396"/>
+
+<br>
+
+<p>
+  *Mobile devices have difficulties whit 3D redering, so it impacts the performance
+</p>
+
+<br>
+
+📡 | Hosted on Vercel: [ https://stellar-portfolio.vercel.app/ ]
+
+<br>
+<br>
+
+<h2 id="run-project"> 
+   👨‍💻 | How to use
+</h2>
+
+<br>
+
 <br>

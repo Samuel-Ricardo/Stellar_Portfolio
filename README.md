@@ -60,3 +60,32 @@ For this, i build a Dev Portfolio website, that you can use as a template, becau
 📡 | Hosted on Vercel: [ https://stellar-portfolio.vercel.app/ ]
 
 <br>
+
+<h2 id="techs">
+  :building_construction: | Technologies and Concepts Studied:
+</h2>
+
+> <a href='https://nextjs.org/'> <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> </a>
+
+- NextJS
+- TailwindCSS
+- Typescript
+- Docker
+- Three - [3D]
+- Framer Motion
+- react-icons
+- eslint
+- Prettier
+- husky
+- lint-staged
+- Caching
+- Perfomance
+- SEO
+- Scalability
+- Web Vitals
+
+> Among Others...
+
+#
+
+<br>
